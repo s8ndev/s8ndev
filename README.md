@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=s8ndev&label=Profile%20views&color=0e75b6&style=flat)
 
-### Hi I'm Frontend Developer
+## Hi I'm Frontend Developer
 
 ![](https://github-readme-streak-stats.herokuapp.com?user=s8ndev&theme=react)
 
